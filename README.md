@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunnith</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js, PostgreSQl**
-
 - 👨‍💻 All of my projects are available at [https://sunnith.netlify.app/](https://sunnith.netlify.app/)
 
 - 💬 Ask me about **Angular, Javascript, Web and Mobile development**
