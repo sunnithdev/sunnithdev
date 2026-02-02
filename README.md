@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sunnith.netlify.app/](https://sunnith.netlify.app/)
 
-- 💬 Ask me about **Angular, Javascript, Web and Mobile development**
+- 💬 Ask me about **Automations / Web and Mobile development**
 
-- 📫 How to reach me **sunnithdev@gmail.com**
+- 📫 How to reach me **sunnithch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
